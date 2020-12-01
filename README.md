@@ -1,6 +1,6 @@
 # NoDozeOff
 
-*  Prevent doorman/watchman from dozing off while working
+## Prevent doorman/watchman from dozing off while working
 
 *  Light and buzzer signals with trigger for alarm systems
 
